@@ -10,7 +10,8 @@ make
 ```
 
 Program arguments: 
-```-bw (black & white)
+```
+-bw (black & white)
 --bw-8bit (Black & white and 8bit);
 -fv (flip vertical)
 -fh (flip horizontal)
