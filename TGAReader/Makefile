@@ -1,6 +1,6 @@
 CC= gcc
 SRCDIR = src
-NAME = BwTGA
+NAME = SimpleTGA
 
 #End sources definition
 
